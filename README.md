@@ -6,7 +6,7 @@
 ![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
 ![doc-percent](https://img.shields.io/cocoapods/metrics/doc-percent/AFNetworking.svg)
-
+![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
 
 ### Install
 
@@ -49,4 +49,5 @@ The modified Boston housing dataset consists of 490 data points, with each datap
 3. `PTRATIO`: pupil-student ratio by town
 
 **Target Variable**
+
 4. `MEDV`: median value of owner-occupied homes
