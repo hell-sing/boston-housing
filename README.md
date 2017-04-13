@@ -2,14 +2,20 @@
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
+[![Build Status](https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges) ![Python](https://img.shields.io/badge/python-2.x-orange.svg)
+![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
+![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
+![doc-percent](https://img.shields.io/cocoapods/metrics/doc-percent/AFNetworking.svg)
+
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+- [Matplotlib](http://matplotlib.org/)
+- [Scikit-Learn](http://scikit-learn.org/stable/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
